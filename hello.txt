@@ -1,0 +1,1 @@
+ Node js is run time enviroment of javascript The fs.appendFile() method is used to synchronously append the data to the file. filepath: It is a String that specifies the file pat   
